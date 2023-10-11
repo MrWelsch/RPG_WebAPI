@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=42bb2f14_002D649f_002D4537_002Dbee7_002D6af25798a38c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllCharactersTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.CharacterServiceTests.CharacterController_Get_ReturnOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_Get_ReturnOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_UpdateCharacter_ReturnOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_UpdateCharacter_ReturnNotFound&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_DeleteById_ReturnNotFound&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_AddCharacterSkill_ReturnNotFound&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_AddCharacterSkill_ReturnOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_AddCharacter_ReturnNotFound&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_AddCharacter_ReturnOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_Get_Retrieves_All_Characters&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7727391B-DD9E-49F9-BAFF-6841BCFA7AC2::net7.0::Dotnet_RPG.Tests.Controllers.CharacterControllerTests.CharacterController_Get_Retrieves_Characters&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

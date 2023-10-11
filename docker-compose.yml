@@ -1,0 +1,21 @@
+﻿services:
+  dotnet_rpg:
+    image: dotnet_rpg
+    build:
+      context: .
+      dockerfile: Dotnet_RPG/Dockerfile
+    # SWAGGER should be available under:
+    # http://localhost:8082/swagger
+    ports:
+      - 8082:80
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    depends_on: 
+      - db
+  db:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment:
+      - SA_PASSWORD=Pass@word
+      - ACCEPT_EULA=Y
+    ports:
+      - "5434:1433"
